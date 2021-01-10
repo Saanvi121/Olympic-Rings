@@ -1,0 +1,14 @@
+.body_backgorund {
+	background-position: center;
+	background-size: cover;
+}
+#myCanvas{
+	border-width: 10px;
+	border-style: groove;
+	background-color: whitesmoke;
+}
+h1
+{
+	color: rgba(178, 44, 255, 0.836); 
+	font-size: 40px;
+}
